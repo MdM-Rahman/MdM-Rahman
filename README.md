@@ -8,11 +8,11 @@ Fresh out of university with a degree in Information Technology, I'm on a missio
 
 🔧 Skills:
 
-1. Coding skills in languages like Java, Python, and JavaScript.
-2. Knowledge of cloud platforms like AWS, Azure, or GCP
-3. Ability to write scripts to automate tasks (e.g. Bash, PowerShell)
-4. Knowledge of application performance monitoring and logging
-5. Collaboration and automation for streamlined development and deployment
+* Coding skills in languages like Java, Python, and JavaScript.
+* Knowledge of cloud platforms like AWS, Azure, or GCP
+* Ability to write scripts to automate tasks (e.g. Bash, PowerShell)
+* Knowledge of application performance monitoring and logging
+* Collaboration and automation for streamlined development and deployment
    
 🌱 Learning: 
 
