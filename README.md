@@ -15,12 +15,13 @@ Collaboration and automation for streamlined development and deployment
 
 💼 Work Highlights:
 
-Contributing to DevOps practices for efficient software delivery
-Supporting root cause analysis during outages or service disruptions
-Helping drive automation initiatives to reduce manual processes
-Writing code to develop, maintain, and update software applications
-Collaborating with developers, QA engineers, sysadmins, and other IT staff to implement DevOps practices
-Troubleshooting issues with applications and infrastructure in development and production environments
+Contributing to DevOps practices for efficient software delivery.
+Supporting root cause analysis during outages or service disruptions.
+Helping drive automation initiatives to reduce manual processes.
+Writing code to develop, maintain, and update software applications.
+Collaborating with developers, QA engineers, sysadmins, and other IT staff to implement DevOps practices.
+Troubleshooting issues with applications and infrastructure in development and production environments.
+
 🤝 Let's Connect: I thrive on collaboration and value the insights and experiences of fellow tech enthusiasts. Don't hesitate to reach out if you share my passion for IT, coding, or DevOps. Let's connect, share ideas, and keep pushing the boundaries of what's possible in technology!
 
 🌎 Find Me Online:
