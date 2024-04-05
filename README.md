@@ -9,23 +9,27 @@ Fresh out of university with a degree in Information Technology, I'm on a missio
 🔧 Skills:
 
 * Coding skills in languages like Java, Python, and JavaScript.
-* Knowledge of cloud platforms like AWS, Azure, or GCP
-* Ability to write scripts to automate tasks (e.g. Bash, PowerShell)
-* Knowledge of application performance monitoring and logging
-* Collaboration and automation for streamlined development and deployment
+* Knowledge of cloud platforms like AWS, Azure, or GCP.
+* Ability to write scripts to automate tasks. (e.g. Bash, PowerShell)
+* Knowledge of application performance monitoring and logging.
+* Collaboration and automation for streamlined development and deployment.
+* Familiar with cloud security best practices and tools like AWS Security Hub, Azure Defender.
+* Strong understanding of network security protocols, encryption, and access management.
+* Hands-on experience with cybersecurity monitoring and incident response tools.
    
 🌱 Learning: 
 
-My hunger for knowledge knows no bounds. I'm deeply passionate about staying on the cutting edge of technology. Currently, I'm honing my expertise in cloud technologies and DevOps tools.
+My hunger for knowledge knows no bounds. I'm deeply passionate about staying on the cutting edge of cybersecurity technology and honing my expertise in areas like cloud security, threat hunting, and security automation. My hunger for knowledge in this domain knows no bounds as I'm constantly looking to expand my skillset and keep up with the rapidly evolving cybersecurity landscape.
 
 💼 Work Highlights:
 
-* Contributing to DevOps practices for efficient software delivery.
-* Supporting root cause analysis during outages or service disruptions.
-* Helping drive automation initiatives to reduce manual processes.
-* Writing code to develop, maintain, and update software applications.
-* Collaborating with developers, QA engineers, sysadmins, and other IT staff to implement DevOps practices.
-* Troubleshooting issues with applications and infrastructure in development and production environments.
+*  Contributing to cybersecurity practices for secure software delivery.
+*  Supporting incident response and root cause analysis during security incidents or breaches.
+*  Helping drive automation and tooling initiatives to enhance security monitoring and threat detection.
+*  Writing code to develop, maintain, and update security applications and tools. C
+*  ollaborating with developers, security analysts, network administrators, and other IT staff to implement cybersecurity best practices.
+*  Troubleshooting security issues with applications and infrastructure in development and production environments.
+
 
 🤝 Let's Connect: 
 
