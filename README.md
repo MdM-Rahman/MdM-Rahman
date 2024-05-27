@@ -1,6 +1,6 @@
 👋 Hi, I'm Rahman!
 
-🌟 Recent IT Graduate | 💻 Associate Software Developer | 📚 Lifelong Learner
+🌟 Recent IT Graduate | 💻 Associate Software Engineer | 📚 Lifelong Learner
 
 🌐 About Me: 
 
